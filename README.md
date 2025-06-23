@@ -12,3 +12,4 @@ There are many AI models, but which one you think it best?
 - DeepSeek-R1
 - Gemini 2.5 Pro
 - nnUNet
+- gemini
