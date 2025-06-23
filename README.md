@@ -14,3 +14,4 @@ There are many AI models, but which one you think it best?
 - nnUNet
 - gemini
 - GPT
+- HuBERT
