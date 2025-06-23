@@ -13,3 +13,4 @@ There are many AI models, but which one you think it best?
 - Gemini 2.5 Pro
 - nnUNet
 - gemini
+- GPT
