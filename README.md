@@ -14,3 +14,4 @@
 - Furo
 - home
 - Indoor pool
+- My hometown
